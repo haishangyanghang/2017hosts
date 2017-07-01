@@ -95,5 +95,3 @@ youtube看视频速度：
 发布时测试功能100%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/7.png"></a>
 * **Bing（HK）**
-发布时测试功能100%正常（需要https打开）
-<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/img/8.PNG"></a>
